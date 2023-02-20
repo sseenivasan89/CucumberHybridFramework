@@ -1,0 +1,4 @@
+$(document).ready(function() {
+CucumberHTML.timelineItems.pushArray([{"id":"54bc3399-4372-4352-8aa7-adae862af210","feature":"Check Emplyee Infomration","scenario":"Search Employee","start":1676875718190,"group":1,"content":"","tags":"@overall,@pim,","end":1676875736508,"className":"passed"},{"id":"c450a701-aa75-416f-8113-75f93e1eef8a","feature":"User Search Functionality","scenario":"Search the user","start":1676875691654,"group":1,"content":"","tags":"@overall,@saerchuser,","end":1676875718138,"className":"passed"}]);
+CucumberHTML.timelineGroups.pushArray([{"id":1,"content":"Thread[main,5,main]"}]);
+});
